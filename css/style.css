@@ -1,0 +1,27 @@
+#head1 {
+  color: red;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  font-size: medium;
+  line-height: 25px;
+  font-style: italic;
+  /* background-color: darkblue; */
+}
+
+.img {
+  width: auto;
+  height: auto;
+  opacity: 0.5;
+}
+
+body {
+  background-image: url(/htu---s2020---elias-qarmash-19120159/images/cloud.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
